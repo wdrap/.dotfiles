@@ -1,0 +1,9 @@
+source $HOME/.config/nvim/plugins.vim
+source $HOME/.config/nvim/settings.vim
+source $HOME/.config/nvim/mappings.vim
+source $HOME/.config/nvim/coc.vim
+source $HOME/.config/nvim/onedark.vim
+source $HOME/.config/nvim/airline.vim
+source $HOME/.config/nvim/which-key.vim
+source $HOME/.config/nvim/startify-screen.vim
+source $HOME/.config/nvim/projectionist.vim

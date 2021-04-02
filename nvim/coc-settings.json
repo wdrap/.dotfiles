@@ -1,0 +1,20 @@
+{
+  // java
+  "java.home": "/Users/wim/.sdkman/candidates/java/11.0.2-open",
+  // codelens
+  "codeLens.enable": true,
+  "java.referencesCodeLens.enabled": true,
+  "java.completion.enabled": true,
+  // "java.jdt.ls.vmargs": "-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -javaagent:\"/Users/wim/.config/coc/extensions/node_modules/coc-java-lombok/jar/lombok.jar\"",
+  // "java.jdt.ls.vmargs": "-javaagent:/usr/local/share/lombok/lombok.jar -noverify -Xmx6G -XX:+UseG1GC -XX:+UseStringDeduplication",
+  // "java.jdt.ls.vmargs": "-javaagent:/usr/local/share/lombok.jar -Xbootclasspath/a:/usr/local/share/lombok.jar", // for older versions of Java
+  
+  // explorer
+  "explorer.width": 30,
+  // "explorer.icon.enableNerdfont": true,
+  "explorer.previewAction.onHover": false,
+  "explorer.keyMappings.global": {
+    "<cr>": ["expandable?", "expand", "open"],
+    "v": "open:vsplit"
+  }
+}
